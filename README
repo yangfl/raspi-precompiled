@@ -1,0 +1,7 @@
+Some precompiled binaries for raspberry pi 1 (armv6)
+
+Get crosscompiler from https://github.com/rvagg/rpi-newer-crosstools .
+
+omxplayer
+===
+See https://github.com/yangfl/omxplayer
